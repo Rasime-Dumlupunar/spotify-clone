@@ -1,6 +1,6 @@
 # Spotify Clone
 
-Bu proje, Spotify'ın temel işlevselliğini taklit eden bir web uygulamasıdır. HTML, CSS, JavaScript ve Bootstrap kütüphanesi kullanılarak geliştirilmiştir.
+Bu proje, Spotify'ın temel işlevselliğini taklit eden bir web uygulamasıdır. HTML, SCSS, JavaScript ve Bootstrap kütüphanesi kullanılarak geliştirilmiştir.
 
 ## Özellikler
 
@@ -12,7 +12,7 @@ Bu proje, Spotify'ın temel işlevselliğini taklit eden bir web uygulamasıdır
 ## Kullanılan Teknolojiler
 
 - **HTML**: Web sayfasının temel yapısını oluşturmak için kullanıldı.
-- **CSS**: Sayfa tasarımı ve düzenlemeleri için kullanıldı.
+- **SCSS**: Sayfa tasarımı ve düzenlemeleri için kullanıldı.
 - **JavaScript**: Etkileşimli öğeler ve dinamik içerik için kullanıldı.
 - **Bootstrap**: Hızlı ve duyarlı bir tasarım oluşturmak için kullanıldı.
 
@@ -23,5 +23,8 @@ Projenin bazı ekran görüntüleri:
 
 
 ![](https://github.com/Rasime-Dumlupunar/spotify-clone/blob/main/Spotify-clone.gif)
+
+## Proje linki
+- https://spotify-clone-x.netlify.app/
 
 
