@@ -16,7 +16,9 @@ Bu proje, Spotify'ın temel işlevselliğini taklit eden bir web uygulamasıdır
 - **JavaScript**: Etkileşimli öğeler ve dinamik içerik için kullanıldı.
 - **Bootstrap**: Hızlı ve duyarlı bir tasarım oluşturmak için kullanıldı.
 
-
+## Proje linki
+- https://spotify-clone-x.netlify.app/
+- 
 ## Ekran Görüntüleri
 
 Projenin bazı ekran görüntüleri:
@@ -24,7 +26,5 @@ Projenin bazı ekran görüntüleri:
 
 ![](https://github.com/Rasime-Dumlupunar/spotify-clone/blob/main/Spotify-clone.gif)
 
-## Proje linki
-- https://spotify-clone-x.netlify.app/
 
 
