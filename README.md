@@ -21,9 +21,6 @@ Bu proje, Spotify'ın temel işlevselliğini taklit eden bir web uygulamasıdır
 - 
 ## Ekran Görüntüleri
 
-Projenin bazı ekran görüntüleri:
-
-
 ![](https://github.com/Rasime-Dumlupunar/spotify-clone/blob/main/Spotify-clone.gif)
 
 
