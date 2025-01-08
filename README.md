@@ -18,7 +18,7 @@ Bu proje, Spotify'ın temel işlevselliğini taklit eden bir web uygulamasıdır
 
 ## Proje linki
 - https://spotify-clone-x.netlify.app/
-- 
+  
 ## Ekran Görüntüleri
 
 ![](https://github.com/Rasime-Dumlupunar/spotify-clone/blob/main/Spotify-clone.gif)
